@@ -6,6 +6,6 @@ The project involves gentle but meticulous data augmentation, usage of custom co
 
 Bearing fruit to these efforts, I have achieved a ~99% accuracy on validation dataset. <br>
 
-For this project, I have used the Indian Sign Language (ISLRTC referred) dataset available on Kaggle. The user will have to generate his/her own kaggle api token to load the dataset.<br>
+For this project, I have used the Indian Sign Language (ISLRTC referred) dataset available on Kaggle. I have largely undersampled the dataset to 100 samples per category to simulate the case when low data is available. The user will have to generate his/her own kaggle api token to load the dataset.<br>
 
 Thank you!
